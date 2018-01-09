@@ -15,7 +15,7 @@ import com.sinfeeloo.quantitycontrolview.util.ToastUtils;
 
 
 /**
- * AmountBtn2
+ * QuantityControlView
  *
  * @author: mhj
  * @date: 2018/1/9 9:54
