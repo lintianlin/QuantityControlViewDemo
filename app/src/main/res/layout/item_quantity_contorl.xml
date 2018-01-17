@@ -5,7 +5,7 @@
     android:layout_height="80dp"
     android:background="@color/white">
 
-    <com.sinfeeloo.quantitycontrolview.QuantityControlView
+    <com.sinfeeloo.qcview.QuantityControlView
         android:id="@+id/quantity_control_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

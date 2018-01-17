@@ -1,1 +1,1 @@
-include ':app', ':quantitycontrolview'
+include ':app', ':quantitycontrolviewlibrary'
